@@ -2,7 +2,7 @@ HR Analytics Project
 
 Overview
 
-This project is part of the Digital Egypt Builders Initiative (DEBI) and focuses on HR analytics to analyze employee performance, satisfaction levels, and education levels using Power BI.
+This project is part of the Digital Egypt Pioneers Initiative (DEPI) and focuses on HR analytics to analyze employee performance, satisfaction levels, and education levels using Power BI.
 
 Project Files
 
@@ -34,4 +34,4 @@ Contributors
 
 
 License
-This project is for educational purposes as part of the DEBI Scholarship
+This project is for educational purposes as part of the DEPI Scholarship
